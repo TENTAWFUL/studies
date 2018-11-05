@@ -16,7 +16,7 @@ print('What is your age?')
 age=input()
 
 print(name + ', You will be ' + str(int(age) + 1) + ' in a year. Feel old yet?')
-print('Thank you for taking the time to try out my first program.')
+print('Thank you for taking the time to try out my first program. (0u0)')
 print('(Type anything to exit)')
 
 input()
